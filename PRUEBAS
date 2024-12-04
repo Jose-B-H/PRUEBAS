@@ -1,1 +1,5 @@
 PRUEBA 1
+comandos para cloner el repositorio
+git init 
+git clone /elnace/
+code . // visualizar
